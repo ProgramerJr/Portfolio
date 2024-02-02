@@ -1,15 +1,10 @@
-:root {
-    --color-scrollbar: #d3d3d4;
-    --color-background-scroll: #eee;
-}
-
-
 /* Scroll para Moz */
 
-.content__page {
+
+/* .content__page {
     scrollbar-width: thin;
     scrollbar-color: var(--color-scrollbar) transparent;
-}
+} */
 
 
 /* Scroll Chrome */
