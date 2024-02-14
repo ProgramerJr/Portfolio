@@ -42,6 +42,7 @@
         border-radius: 0;
         grid-template-areas: 'contenido';
         grid-template-columns: 100%;
+        overflow-x: hidden;
     }
     .layout__content {
         border-radius: 0;
